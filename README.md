@@ -1,5 +1,4 @@
 # TradeLens-Identifying-a-potential-FTA-for-India
-# TradeLens: Intra-IIFT Case Challenge GTO
 
 ## Project Overview
 This project aims to identify a potential Free Trade Agreement (FTA) for India to maximize economic gains by analyzing trade indicators, Regional Hirschman Index (RHI), and Revealed Comparative Advantage (RCA) of various export products.
