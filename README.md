@@ -4,6 +4,8 @@
 ## Project Overview
 This project aims to identify a potential Free Trade Agreement (FTA) for India to maximize economic gains by analyzing trade indicators, Regional Hirschman Index (RHI), and Revealed Comparative Advantage (RCA) of various export products.
 
+![TradeLens](path/to/your/image.png)
+
 ## Team Members
 - Aditya Partap Singh, MBA(IB) Class of '24
 - Sajal Vats, MBA(IB) Class of '24
