@@ -1,7 +1,7 @@
 # TradeLens-Identifying-a-potential-FTA-for-India
 
 ## Project Overview
-This project aims to identify a potential Free Trade Agreement (FTA) for India to maximize economic gains by analyzing trade indicators, Regional Hirschman Index (RHI), and Revealed Comparative Advantage (RCA) of various export products.
+This project aims to identify a potential Free Trade Agreement (FTA) for India to maximize economic gains by analyzing trade indicators of various export products.
 
 ![TradeLens](https://github.com/SajalVats/Photo/blob/main/GTO%20ReadMe%20.png)
 
